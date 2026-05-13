@@ -1,0 +1,13 @@
+{
+    "name": "sillytavern-tts-persist-server",
+    "version": "3.2.0",
+    "description": "Server plugin for TTS Persist queueing and storage.",
+    "main": "index.js",
+    "type": "module",
+    "author": "DBMePls",
+    "license": "AGPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DBMePls/sillytavern-tts-persist-server.git"
+    }
+}
